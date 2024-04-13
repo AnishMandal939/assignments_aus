@@ -1,0 +1,4 @@
+Average marks for each subject:
+Assignment 1: 11.425
+Assignment 2: 13.7
+Final Exam: 64.1

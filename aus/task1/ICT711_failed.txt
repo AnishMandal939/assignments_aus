@@ -1,0 +1,1 @@
+Number of failed students: 4
